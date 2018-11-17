@@ -2,7 +2,7 @@
 
 Built with of_v0.10.0_osx_release
 
-This example shows the inaccuracy of pointer events.
+This example shows the timing inaccuracy `ofGetElapsedTimeMicros()` inside of the pointer event handler.
 
 In the mouse move event, this program logs:
 
