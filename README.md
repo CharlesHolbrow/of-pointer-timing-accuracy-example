@@ -12,6 +12,8 @@ In the mouse move event, this program logs:
 
 When moving the mouse at a consistent rate, we see very large fluctuation in delta T, and little or no fluxuations in delta XY.
 
+This example is for OSX, but I have seen similar issues on iOS.
+
 ## Sample Output:
 
 ```
